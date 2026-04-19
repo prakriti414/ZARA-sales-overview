@@ -1,26 +1,26 @@
 # Zara Sales Performance Analysis
 
-## 📌 Overview
+##  Overview
 This project analyzes Zara’s global sales data to identify sales trends by product placement, region, and season. The goal is to uncover insights that can guide marketing, production, and merchandising strategies.
 
-## 🧰 Tools Used
+##  Tools Used
 - SQL: Data cleaning and exploratory analysis
 - Tableau: Dashboard and visualization
 - Excel: Preprocessing and validation
 
-## 🧹 Data Cleaning Steps
+##  Data Cleaning Steps
 - Removed duplicates and null values
 - Standardized categorical fields (Gender, Region, Placement)
 - Checked for invalid or negative sales values
 
-## 📊 Key SQL Analysis
+##  Key SQL Analysis
 - Sales by Product Placement
 - Seasonal Demand for Linen Products
 - Gender-Based Sales Comparison
 - Regional Sales Performance
 - Category-Wise Product Sales
 
-## 💡 Key Insights
+##  Key Insights
 1. **Product Placement:**  
    Products in the *Aisle area* generated the highest sales.
 
@@ -36,10 +36,10 @@ This project analyzes Zara’s global sales data to identify sales trends by pro
 5. **Category Performance:**  
    *Jackets* led all product categories in sales, while *Jeans* had the lowest performance.
 
-## 📈 Tableau Dashboard
+##  Tableau Dashboard
 🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/zarasalesdashboard2/Dashboard3?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## 🧠 Learnings
+##  Learnings
 - Strengthened skills in SQL-based retail analytics  
 - Discovered actionable sales insights from product and region patterns  
 - Improved storytelling with data visualization through Tableau
